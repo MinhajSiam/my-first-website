@@ -3,8 +3,10 @@
     height: auto;
 }
 h1{
-    text-align: justify;
+    text-size-adjust: 8vw;
+    text-align: center;
 }
 h2{
-    text-align: justify;
+    text-size-adjust: 2vw;
+    text-align: center;
 }
